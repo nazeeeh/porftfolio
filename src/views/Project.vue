@@ -6,7 +6,7 @@
                     <v-flex xs12 md3 v-for="proj in projects" :key="proj.title">
                         <v-card class="mt-3" max-width="250">
                             <v-img class="white--text align-end" height="200px" :src="proj.image">
-                                <v-card-title>{{proj.title}}</v-card-title>
+                                <v-card-title class="teal--text">{{proj.title}}</v-card-title>
                             </v-img>
                             <v-card-text class="text--primary">
                                 <div>{{proj.text}}</div>
