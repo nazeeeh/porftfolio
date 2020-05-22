@@ -16,7 +16,7 @@
                                     <v-btn icon>
                                     <v-icon>mdi-heart</v-icon>
                                     </v-btn>
-                                    <a href="https://www.github.com/nazeeeh" style="color: grey; margin-left: 10px">
+                                    <a href="https://www.github.com" style="color: grey; margin-left: 10px">
                                     <i class="fab fa-github-square fa-2x "></i>
                                     </a>
                             </v-card-actions>
